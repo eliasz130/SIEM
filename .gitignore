@@ -1,5 +1,11 @@
 # Misc
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_STORE
+
+
+>>>>>>> refs/remotes/origin/main
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
